@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on improving my level in coding through consistent practice and projects.<br>I'm looking to collaborate on exciting coding projects that challenge and enhance my skills.<br>I'm looking for help with senior developers to gain insights, mentorship, and guidance in my coding journey.<br>I'm currently learning new technologies such as Angular to stay updated and expand my skill set.<br>Fun fact: I once coded a game in a weekend just for the thrill of it.
+I'm currently working on improving my level in coding through consistent practice and projects.<br>I'm looking to collaborate on exciting coding projects that challenge and enhance my skills.<br>I'm looking for help with senior developers to gain insights, mentorship, and guidance in my coding journey.<br>I'm currently learning new technologies such as Angular to stay updated and expand my skill set.<br>
 
 
 ## 🌐 Socials:
